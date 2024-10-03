@@ -4,4 +4,3 @@
 
 **Currently**
 - Taking CS50x 💻
-- Building [@Argtoric](https://github.com/Argtoric)
