@@ -1,6 +1,6 @@
 # @shreykx
 
-**[Hi! I'm Shreyash and I like to code.]()**
+**crafting deep neural nets**
 
 **Currently**
 - Taking CS50x 💻
