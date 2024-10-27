@@ -1,6 +1,6 @@
 # @shreykx
 
-**crafting deep neural nets**
+crafting deep neural nets
 
 **Currently**
 - Taking CS50x 💻
