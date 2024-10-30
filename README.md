@@ -1,3 +1,3 @@
 Currently doing
-- hardware code
+- low level systems code (C/C++)
 - machine learning
