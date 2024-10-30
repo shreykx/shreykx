@@ -1,6 +1,6 @@
 # @shreykx
 
-i like to code
+crafting deep neural nets
 
 **Currently**
 - Taking CS50x 💻
