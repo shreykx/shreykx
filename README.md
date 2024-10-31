@@ -1,3 +1,3 @@
 Currently doing
 - low level systems code (C/C++)
-- machine learning
+- react native development
